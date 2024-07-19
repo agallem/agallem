@@ -1,16 +1,15 @@
-## Hi there 👋
+# I'm Alicia👋
 
-<!--
-**agallem/agallem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science Student, passionate about data science and analytics. Here you'll find some of my projects and contributions.
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 College student, graduating in May 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+- **Languages**: Python, R, SQL, Java
+- **Data Analysis & Visualization**: Power BI, Tableau
+- **Data Manipulation**: DAX
+- **Other Tools**: Git, GitHub, Jupyter Notebook
+
+## 💬 Let's Connect
+- 💼 LinkedIn: www.linkedin.com/in/alicia-gallemore 
